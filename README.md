@@ -1,2 +1,24 @@
-# travel
-本项目开发的是一个旅游网站的前端页面，名为新旅诚，本项目采用主流的vue3 + element-plus + vue-router框架进行开发，采用cli脚手架进行项目的的管理。项目主要包括一下几个模块，首页、酒店推荐、美食推荐、出行工具、个人中心等。其中项目首页包括左侧导航栏、顶部的logo区域、搜索区域、筛选区域、推荐酒店区域等。
+# my-router11
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
